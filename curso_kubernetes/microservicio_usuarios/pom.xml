@@ -8,7 +8,7 @@
 		<version>1.0-SNAPSHOT</version>
 	</parent>
 	<groupId>org.damidiaz.springcloud.microservice</groupId>
-	<artifactId>microservicio_usuarios</artifactId>
+	<artifactId>microservicio.usuarios</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>microservicio_usuarios</name>
 	<description>Demo project for Spring Boot</description>
